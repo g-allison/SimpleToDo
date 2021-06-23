@@ -32,7 +32,7 @@ GIF created with [LICECap](https://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One challenge I struggled with was multitasking between working on my own code and listening to my fellow interns ask the pod managers questions. By the end of the day I found it much easier to balance the two, and was able to multitask much better. A second challenge I encounterned was my readLines() and writeLines() function calls were both causing errors, but once I added a necessary import statement I was able to resolve the issue.
 
 ## License
 
